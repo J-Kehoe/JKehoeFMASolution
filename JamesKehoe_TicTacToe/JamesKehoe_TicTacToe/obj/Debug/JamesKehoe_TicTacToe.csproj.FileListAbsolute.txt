@@ -1,0 +1,7 @@
+C:\Users\jkkeh\source\repos\JamesKehoe_TicTacToe\JamesKehoe_TicTacToe\bin\Debug\JamesKehoe_TicTacToe.exe.config
+C:\Users\jkkeh\source\repos\JamesKehoe_TicTacToe\JamesKehoe_TicTacToe\bin\Debug\JamesKehoe_TicTacToe.exe
+C:\Users\jkkeh\source\repos\JamesKehoe_TicTacToe\JamesKehoe_TicTacToe\bin\Debug\JamesKehoe_TicTacToe.pdb
+C:\Users\jkkeh\source\repos\JamesKehoe_TicTacToe\JamesKehoe_TicTacToe\obj\Debug\JamesKehoe_TicTacToe.csprojAssemblyReference.cache
+C:\Users\jkkeh\source\repos\JamesKehoe_TicTacToe\JamesKehoe_TicTacToe\obj\Debug\JamesKehoe_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\jkkeh\source\repos\JamesKehoe_TicTacToe\JamesKehoe_TicTacToe\obj\Debug\JamesKehoe_TicTacToe.exe
+C:\Users\jkkeh\source\repos\JamesKehoe_TicTacToe\JamesKehoe_TicTacToe\obj\Debug\JamesKehoe_TicTacToe.pdb
